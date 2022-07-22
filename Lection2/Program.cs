@@ -10,7 +10,7 @@ namespace Lection2
             var f2 = new object(); //feature2
             var f1 = new object(); //feature1
 
-            Console.WriteLine("Feature 1!");
+            Console.WriteLine("Very long feature 2");
         }
     }
 }
