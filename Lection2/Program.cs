@@ -6,7 +6,8 @@ namespace Lection2
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World from branch2!");
+            var f2 = new object(); //feature2
         }
     }
 }
